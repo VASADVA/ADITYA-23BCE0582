@@ -1,0 +1,9 @@
+# Ignore everything in the root directory
+/*
+
+# Do not ignore the .gitignore file itself
+!.gitignore
+
+# Do not ignore the HACKATHON directory and its contents
+!HACKATHON/
+!HACKATHON/**
